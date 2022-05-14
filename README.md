@@ -1,5 +1,8 @@
 
-## Exemple
+## Run
+composer require romulo126/instagramgetposts
+
+## Exemple USer
 
 ```
 <?php
