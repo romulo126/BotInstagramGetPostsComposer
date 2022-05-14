@@ -1,5 +1,5 @@
 {
-    "name":"bot/instagramgetposts",
+    "name":"romulo126/instagramgetposts",
     "description": "get images, videos, likes and descriptions of Instagram user POST",
     "homepage": "https://github.com/romulo126/BotInstagramGetPosts/tree/composer",
     "keywords": ["bot", "instagram"],
