@@ -1,0 +1,23 @@
+{
+    "name":"bot/instagramgetposts",
+    "description": "get images, videos, likes and descriptions of Instagram user POST",
+    "homepage": "https://github.com/romulo126/BotInstagramGetPosts/tree/composer",
+    "keywords": ["bot", "instagram"],
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+                {
+                    "name": "Romulo Henrique D S",
+                    "email": "romulohenrique126@hotmail.com"
+                }
+            ],
+    "autoload": {
+        "psr-4": {
+            "BotInstagramGetPosts\\": "src/BotInstagramGetPosts"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
