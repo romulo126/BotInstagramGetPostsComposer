@@ -2,6 +2,9 @@
 ## Run
 composer require romulo126/instagramgetposts
 
+## API
+- (https://github.com/romulo126/BotInstagramGetPosts)
+
 ## Exemple USer
 
 ```
